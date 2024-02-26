@@ -99,4 +99,57 @@ GROUP BY Department;
  - The survey was carried out across 21 departments.
  - Respondents who identified as 'others' were the most responsdents with a count of 10,560.
  - The survey consisted of Questions namely:
- - 
+  - 1. I know what is expected of me at work
+  - 2. At work, I have the opportunity to do what I do best every day
+  - 3. In the last seven days, I have received recognition or praise for doing good work
+  - 4. My supervisor, or someone at work, seems to care about me as a person
+  - 5. The mission or purpose of our organization makes me feel my job is important
+  - 6. I have a best friend at work
+  - 7. This last year, I have had opportunities at work to learn and grow
+  - 8. My supervisor holds employees accountable for performance
+  - 9. My department is inclusive and demonstrates support of a diverse workforce
+  - 10. Overall I am satisfied with my job.
+
+- Overall, the most agreed question was 'I know what is expected of me at work' with agreement rate of 92.3%; while the most disagree question was 'I have a best friend at work' with a rate of 41.6%
+- Directors agreed most Q1 and diagreed with Q6
+- Managers agreed most with Q1 and diagreed with Q6
+- Staff agreed most with Q3 and disagreed with Q5
+- Supervisors agreed most with Q1 and disagreed with Q3
+- Others agreed most with Q1 and disagreed with Q3
+
+- Q1 was the most agreed across all departments while Q6 was the most disagreed.
+
+
+## Recommendations
+Based on the survey results, here are some recommendations to address the key findings:
+
+**Clarify Expectations and Communication:**
+
+Since "I know what is expected of me at work" received the highest agreement rate, it indicates that clear expectations contribute to employee satisfaction. Continue to emphasize transparent communication of roles, responsibilities, and objectives to ensure alignment across all levels of the organization.
+
+**Promote Social Connections and Collaboration:**
+
+Given that "I have a best friend at work" had the highest disagreement rate, consider initiatives to foster social connections and build a supportive work environment. Encourage team-building activities, mentorship programs, and cross-functional collaboration to facilitate meaningful relationships among employees.
+
+**Recognition and Feedback Mechanisms:**
+
+Enhance recognition and feedback mechanisms to acknowledge employees' contributions and achievements. Implement regular performance evaluations, peer recognition programs, and opportunities for constructive feedback to reinforce positive behaviors and boost morale.
+
+**Invest in Learning and Development:**
+
+Address the discrepancy in agreement rates for "This last year, I have had opportunities at work to learn and grow" across different roles. Provide access to training programs, skill development workshops, and career advancement opportunities tailored to the specific needs and career aspirations of employees in each role.
+
+**Cultivate Inclusive and Supportive Work Environments:**
+
+Focus on promoting diversity, equity, and inclusion within departments by fostering a culture of respect, acceptance, and support for all employees. Offer diversity training, create affinity groups, and establish policies and practices that promote inclusivity and demonstrate organizational commitment to diversity.
+
+**Continuous Feedback and Improvement:**
+
+Regularly solicit feedback from employees through surveys, focus groups, or one-on-one meetings to gauge satisfaction levels and identify areas for improvement. Use this feedback to drive continuous improvement initiatives and ensure that employee voices are heard and valued.
+By addressing these recommendations, organizations can create a positive work environment where employees feel valued, supported, and motivated to contribute their best efforts, ultimately leading to higher levels of job satisfaction and overall organizational success.
+
+
+
+
+
+

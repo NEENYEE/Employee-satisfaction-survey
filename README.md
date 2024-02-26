@@ -22,6 +22,10 @@ As employers, it's crucial to proactively address areas of concern and prioritiz
 
 The dataset was provided by Digitaley drive as an integral part of my capstone project [data source](https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKOB8E/edit#gid=61186505). The dataset consists of one table made up of one table (14,710 column and 10 rows.
 
+## ER Diagram
+![IMG_8563 2](https://github.com/NEENYEE/Employee-satisfaction-survey/assets/101926233/88087269-6f00-4121-bcef-9c029123d9c7)
+
+
 ## Tools
 In this analysis, I utilized a combination of Power BI, Power Query, and SQL to effectively explore, transform, and analyze the Employee Survey Responses dataset. Power BI served as the primary visualization tool, enabling the creation of interactive dashboards and reports to visually represent key insights derived from the data. Power Query played a crucial role in data preparation, allowing for seamless data cleansing, transformation, and integration tasks to ensure the dataset's quality and consistency. Additionally, SQL was leveraged for advanced data manipulation and querying capabilities, providing flexibility in extracting specific subsets of data and performing complex analyses. Together, these tools facilitated a comprehensive analysis of the survey responses, enabling the extraction of actionable insights to inform decision-making and organizational strategies.
 

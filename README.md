@@ -98,7 +98,8 @@ GROUP BY Department;
 ```
 
  ## Visualizations and Key insights
- <img width="1680" alt="Screenshot 2024-02-26 at 10 18 49 PM" src="https://github.com/NEENYEE/Employee-satisfaction-survey/assets/101926233/7782b188-8639-4151-b28b-3704617c27b0">
+ <img width="1680" alt="Screenshot 2024-02-28 at 8 47 43 PM" src="https://github.com/NEENYEE/Employee-satisfaction-survey/assets/101926233/985be2ac-42a8-4462-8000-775eeac4a740">
+
 
  
  - 99.08% of 14,710 respondents completed the survey.

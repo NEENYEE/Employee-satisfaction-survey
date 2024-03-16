@@ -1,6 +1,6 @@
-CREATE DATABASE SURVEY;
+CREATE DATABASE survey;
 
-USE SURVEY;
+USE survey;
 
 CREATE TABLE employee_survey (
 Response_ID INT,
